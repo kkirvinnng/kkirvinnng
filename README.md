@@ -1,4 +1,4 @@
-<h1 align="center">Hello there👋</h1>
+<h1 >Hello there👋</h1>
 
 ![Snake animation](https://raw.githubusercontent.com/fernandobandeira/fernandobandeira/output/github-snake-dark.svg)
 
