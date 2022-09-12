@@ -1,5 +1,3 @@
-<h1 align="left">Hello there👋</12>
-
 ![Snake animation](https://raw.githubusercontent.com/fernandobandeira/fernandobandeira/output/github-snake-dark.svg)
 
 ###
